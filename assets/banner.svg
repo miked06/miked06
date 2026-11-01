@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">miked06</title>
+  <desc id="desc">Game automation, pathfinding and developer tools. A cyan and violet route crosses a dark geometric grid.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0d1526"/>
+      <stop offset="1" stop-color="#131d35"/>
+    </linearGradient>
+    <linearGradient id="route" x1="0" x2="1">
+      <stop stop-color="#52dfcf"/>
+      <stop offset="1" stop-color="#a296ff"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#869bc1" stroke-opacity=".09"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="360" rx="20" fill="url(#background)"/>
+  <rect x="665" width="615" height="360" rx="20" fill="url(#grid)"/>
+  <path d="M835 360V271H923V183H1011V95H1143V0" fill="none" stroke="#7585b6" stroke-width="42" stroke-opacity=".05"/>
+  <path d="M769 315H835V271H923V183H1011V95H1143V51H1211" fill="none" stroke="url(#route)" stroke-width="4" stroke-linejoin="round"/>
+  <g fill="#101a2e" stroke="#68dcd8" stroke-width="3">
+    <circle cx="835" cy="271" r="6"/>
+    <circle cx="923" cy="183" r="6"/>
+  </g>
+  <circle cx="1011" cy="95" r="6" fill="#101a2e" stroke="#a296ff" stroke-width="3"/>
+  <circle cx="1211" cy="51" r="16" fill="#a296ff" fill-opacity=".12"/>
+  <circle cx="1211" cy="51" r="6" fill="#b5adff"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect x="60" y="57" width="6" height="17" rx="3" fill="#52dfcf"/>
+    <text x="81" y="71" fill="#a3b6d3" font-size="13" font-weight="600" letter-spacing="3">BUILD. EXPLORE. AUTOMATE.</text>
+    <text x="56" y="173" fill="#f0f5ff" font-size="84" font-weight="700" letter-spacing="-4">miked<tspan fill="#6ce0d7">06</tspan></text>
+    <text x="61" y="220" fill="#b5c4dd" font-size="22">Game automation, pathfinding &amp; developer tools.</text>
+    <path d="M61 252H111" stroke="#53698c" stroke-width="2"/>
+    <text x="61" y="291" fill="#7f94b6" font-size="14" letter-spacing="1.2">C++  /  MINECRAFT BEDROCK  /  WEB</text>
+  </g>
+</svg>
