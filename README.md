@@ -1,53 +1,15 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="miked06 — Game automation, pathfinding and developer tools" width="100%">
-</p>
+# 💫 About Me:
+👋 Hi, I'm miked06 — I build game automation and interactive web projects.<br><br>🔭 Working on Baritone Bedrock: C++ pathfinding and automation for Minecraft Bedrock on Windows.<br>🌐 Building its companion website with an interactive A* pathfinding demo.<br>💬 Interested in pathfinding algorithms, native development, and making complex tools easy to use.
 
-<p align="center">
-  <strong>I build tools that turn complex tasks into simple commands.</strong><br>
-  Working on Minecraft Bedrock automation, native C++ systems, and interactive web experiences.
-</p>
 
-<p align="center">
-  <a href="https://github.com/miked06/baritone-bedrock">Flagship project</a> &nbsp;·&nbsp;
-  <a href="https://miked06.github.io/baritone-bedrock-website/">Live website</a> &nbsp;·&nbsp;
-  <a href="https://github.com/miked06/baritone-bedrock/issues">Discuss an idea</a>
-</p>
+## 🌐 Links:
+[![Website](https://img.shields.io/badge/Website-0088CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://miked06.github.io/baritone-bedrock-website/) [![Project](https://img.shields.io/badge/Baritone_Bedrock-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miked06/baritone-bedrock)
 
-## Selected work
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+# 📊 GitHub Stats:
+![miked06's GitHub stats](https://github-readme-stats.shion.dev/api?username=miked06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub contribution streak](https://streak-stats.demolab.com/?user=miked06&theme=dark&hide_border=false)<br/>
+![Most used languages across public repositories](https://github-readme-stats.shion.dev/api/top-langs/?username=miked06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### [Baritone Bedrock](https://github.com/miked06/baritone-bedrock)
-
-A native C++ port of [Baritone](https://github.com/cabaletta/baritone) for Minecraft Bedrock on Windows. Pathfinding, mining, building, farming, and elytra navigation, controlled through in-game chat commands.
-
-- **Pathfinding:** A* search, movement planning, and terrain caching.
-- **Automation:** command-driven workflows for navigating and interacting with the world.
-- **Engineering:** a standalone pathfinding core with offline tests and documented game integration.
-
-**C++ · CMake · Windows**
-
-[Explore the code](https://github.com/miked06/baritone-bedrock) &nbsp;↗&nbsp; [Read the architecture](https://github.com/miked06/baritone-bedrock/blob/main/docs/ARCHITECTURE.md)
-
-### [Baritone Bedrock Website](https://github.com/miked06/baritone-bedrock-website)
-
-A project website with an interactive A* pathfinding demo, an animated voxel scene, gameplay media, and guides. Built with HTML, CSS, and JavaScript and hosted on GitHub Pages.
-
-**JavaScript · HTML · CSS · GitHub Pages**
-
-[Visit the website](https://miked06.github.io/baritone-bedrock-website/) &nbsp;↗&nbsp; [Explore the code](https://github.com/miked06/baritone-bedrock-website)
-
-## Tools & focus
-
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-182235?style=flat-square&amp;logo=cplusplus&amp;logoColor=8BAFFF" alt="C++">
-  <img src="https://img.shields.io/badge/CMake-182235?style=flat-square&amp;logo=cmake&amp;logoColor=8BAFFF" alt="CMake">
-  <img src="https://img.shields.io/badge/JavaScript-182235?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-182235?style=flat-square&amp;logo=html5&amp;logoColor=E98B71" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS-182235?style=flat-square&amp;logo=css&amp;logoColor=8BAFFF" alt="CSS">
-  <img src="https://img.shields.io/badge/Git-182235?style=flat-square&amp;logo=git&amp;logoColor=E98B71" alt="Git">
-</p>
-
-Currently focused on **pathfinding algorithms**, **game automation**, and **clear documentation** that helps people use and contribute to my projects.
-
----
-
-Have a bug report, feature idea, or technical question? [Start a conversation in the project issues.](https://github.com/miked06/baritone-bedrock/issues)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
